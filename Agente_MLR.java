@@ -1,6 +1,6 @@
 /*
 @author Luis Isael Campos Luna 
-Instituto tecnologico José Mario Molina Pasquel ds_Xi2 Henríquez 
+Instituto tecnologico José Mario Molina Pasquel Henríquez 
 5 semestre, grupo B, T/M, 07/Oct/2021
  */
 package AgenteMLR;
